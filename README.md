@@ -1,2 +1,4 @@
 # Evaluation-of-supervised-machine-learning-algorithms-to-predict-crime-using-open-source-data.
- This project evaluated the accuracy of supervised regression algorithms to predict anti-social behaviour and bicycle theft frequencies per month based on LSOA (Lower Super Output Areas) codes in Middlesbrough, UK using Python’s data analysis and machine learning libraries.
+ This project evaluated the accuracy of supervised machine learning algorithms to predict anti-social behaviour and bicycle theft frequencies per month based on LSOA (Lower Super Output Areas) codes in Middlesbrough, UK using Python’s data analysis and machine learning libraries.
+ 
+Data: The datasets are collected from UK police website (Data.Police.UK) which contains open data about crime and policing in England, Wales, and Northern Ireland. Among the data provided by 45 police forces, the crime data recorded by Cleveland Police Force is used in this project. A total of 4 years of data recorded on a monthly basis from January 2016 to December 2019. The monthly files are first concatenated (not shown in the code) to form a yearly collection of data.
